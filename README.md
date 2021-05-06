@@ -1,8 +1,11 @@
 
 ### Hi there 👋
 
-### Android Application Developer 
-+ ㅁㅁㅁ
+### Android Software Engineer 
++ Junior Android developer who wants to grow endlessly
+
+### Interest
++ 
 
 <div align=center>
   
