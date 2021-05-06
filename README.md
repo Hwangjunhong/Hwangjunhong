@@ -1,8 +1,7 @@
 
 ### Hi there 👋
 
-## Android Application Developer
-  + ㅁㅁㅁ
+## Android Application Developer + ㅁㅁㅁ
 
 <div align=center>
   
