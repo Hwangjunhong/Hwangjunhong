@@ -10,7 +10,6 @@
 
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://jjjhong.tistory.com/)
-<t></t>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghkdwnsghd1@gmail.com)](mailto:ghkdwnsghd1@gmail.com)
 
 <!-- </div> -->
