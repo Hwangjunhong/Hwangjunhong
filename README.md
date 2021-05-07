@@ -3,12 +3,6 @@
 
 ### Android Software Engineer 
 + Junior Android developer who wants to grow endlessly
-
-### Interest
-+
-+
-+
-
 <br></br>
 <div align=center>
   
