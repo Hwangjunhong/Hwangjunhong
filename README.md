@@ -4,7 +4,7 @@
 ### Android Software Engineer 
 + Junior Android developer who wants to grow endlessly
 -->
-<br></br>
+
 <!-- <div align=center> -->
 [![HONG's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwangjunhong&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
