@@ -6,7 +6,7 @@
 -->
 
 <!-- <div align=center> -->
-[![HONG's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwangjunhong&theme=radical&show_icons=true)]
+[![HONG's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwangjunhong&theme=radical&show_icons=true)](https://github.com/hwangjunhong/github-readme-stats)
 
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://jjjhong.tistory.com/) 
